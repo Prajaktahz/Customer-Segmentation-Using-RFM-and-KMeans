@@ -29,6 +29,7 @@ The dataset consists of four distinct files detailing the transactional behavior
 - **Principal Component Analysis (PCA)**: Utilized PCA to reduce dimensionality and simplify the data complexity, making the clustering process more effective.
 
 ---
+![image](https://github.com/user-attachments/assets/5b63fca0-8185-43da-9f6a-d3f1522d9071)
 
 ## 📈 RFM Analysis Results
 The RFM analysis revealed the following six customer segments:
@@ -43,6 +44,7 @@ The RFM analysis revealed the following six customer segments:
 | **Lost Customers**      | 46.8           | 16                  | 209.6               | 8.4%                        | Reactivation campaigns, Customer surveys, Last chance offers       |
 
 ---
+![image](https://github.com/user-attachments/assets/defa290b-b8ac-4dd8-8c54-03b7df32e0e0)
 
 ## 💡 Marketing Strategy Suggestions
 To optimize engagement and enhance customer relationships, we recommend implementing the following strategies for key segments:
@@ -58,6 +60,7 @@ To optimize engagement and enhance customer relationships, we recommend implemen
 By focusing marketing efforts on these segments, Foodcorp can foster strong relationships, drive repeat purchases, and encourage brand advocacy.
 
 ---
+![image](https://github.com/user-attachments/assets/0b7c9258-78c9-4c6d-b20a-ff611dec5082)
 
 ## 🔄 Suggestions for Further Analysis
 - **Periodic Evaluations**: Conduct regular assessments of marketing campaigns to measure effectiveness and identify areas for improvement.
